@@ -2,4 +2,5 @@
 This is my first repository.
 I am looking forward to learning more.
 See you
-Dette er assignment 2
+Dette er assignment 1
+
